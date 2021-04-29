@@ -1,4 +1,4 @@
-;; buftra.el
+;;; buftra.el --- Functions to patch the current buffer
 ;; Copyright (C) 2015-2016, Friedrich Paetzke <f.paetzke@gmail.com>
 ;; Author: Friedrich Paetzke <f.paetzke@gmail.com>
 ;; URL: https://github.com/paetzke/buftra.el
